@@ -1,0 +1,3 @@
+# Configuration specific to hellomercer production profile 
+# To set the profile in the app you can use environment variables
+# SPRING_PROFILES_ACTIVE=production

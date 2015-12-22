@@ -1,4 +1,1 @@
-# Configuration for application hellomercer
-# To have separate files for different profiles (re: environments) 
-# you can use this scheme: hellomercer-environment.yml
-
+# Configuration defaults for application hellomercer
