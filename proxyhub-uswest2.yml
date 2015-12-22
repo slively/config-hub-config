@@ -4,4 +4,4 @@ zuul:
   routes:
     hellomercer:
       path: /hellomercer/**
-      url: http://hellomercer-west.elasticbeanstalk.com
+      url: http://hellomercer-west.elasticbeanstalk.com/hellomercer
