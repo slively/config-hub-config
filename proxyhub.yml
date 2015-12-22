@@ -1,7 +1,0 @@
-# zuul routes can be updated using spring cloud config
-
-zuul:
-  routes:
-    hellomercer2:
-      path: /hellomercer2/**
-      url: http://hellomercer.ghbeta.com/hellomercer'
