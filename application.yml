@@ -1,0 +1,12 @@
+# This is a global config for all applications
+
+ribbon:
+  eureka:
+   enabled: false
+
+server:
+  port: 5000
+
+logging:
+  level:
+    ROOT: INFO
