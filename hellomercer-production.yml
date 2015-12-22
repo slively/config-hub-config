@@ -1,3 +1,7 @@
 # Configuration specific to hellomercer production profile 
-# To set the profile in the app you can use environment variables
+# To set the profile in the app you can use environment variables:
 # SPRING_PROFILES_ACTIVE=production
+# The precedence of files for hellomercer with the active profile 'production'
+# would be: hellomercer-production.yml -> hellomercer.yml -> application.yml
+# with hellomercer-production.yml overwriting the other configurations
+this-is: 'production'
