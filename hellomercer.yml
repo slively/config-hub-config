@@ -1,2 +1,7 @@
 # Configuration defaults for application hellomercer
 hellomercer: 'standard-config-item'
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://ca152c40-c583-4336-8199-aa775025d785.elasticbeanstalk.com/eureka/
