@@ -1,5 +1,9 @@
 # zuul routes can be updated using spring cloud config
 
+ribbon:
+  eureka:
+   enabled: true
+
 zuul:
   routes:
     hellomercer: /hellomercer/**
